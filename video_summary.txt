@@ -1,0 +1,302 @@
+Video Summary:
+
+At 0.00 seconds: Person is walking.
+At 0.00 seconds: Person is walking.
+At 0.00 seconds: Person is walking.
+At 0.00 seconds: Unknown event.
+At 0.00 seconds: Car entered the scene.
+At 34.00 seconds: Person is walking.
+At 34.00 seconds: Person is walking.
+At 34.00 seconds: Person is walking.
+At 34.00 seconds: Unknown event.
+At 34.00 seconds: Unknown event.
+At 34.00 seconds: Person is walking.
+At 34.00 seconds: Person is walking.
+At 35.00 seconds: Person is walking.
+At 35.00 seconds: Person is walking.
+At 35.00 seconds: Person is walking.
+At 35.00 seconds: Unknown event.
+At 35.00 seconds: Unknown event.
+At 36.00 seconds: Person is walking.
+At 36.00 seconds: Person is walking.
+At 36.00 seconds: Person is walking.
+At 36.00 seconds: Unknown event.
+At 36.00 seconds: Car entered the scene.
+At 37.00 seconds: Person is walking.
+At 37.00 seconds: Person is walking.
+At 37.00 seconds: Person is walking.
+At 38.00 seconds: Person is walking.
+At 38.00 seconds: Person is walking.
+At 38.00 seconds: Person is walking.
+At 38.00 seconds: Unknown event.
+At 38.00 seconds: Unknown event.
+At 38.00 seconds: Person is walking.
+At 39.00 seconds: Person is walking.
+At 4.00 seconds: Person is walking.
+At 40.00 seconds: Person is walking.
+At 40.00 seconds: Person is walking.
+At 41.00 seconds: Person is walking.
+At 41.00 seconds: Unknown event.
+At 41.00 seconds: Person is walking.
+At 42.00 seconds: Person is walking.
+At 42.00 seconds: Person is walking.
+At 42.00 seconds: Unknown event.
+At 43.00 seconds: Person is walking.
+At 43.00 seconds: Person is walking.
+At 43.00 seconds: Person is walking.
+At 43.00 seconds: Unknown event.
+At 44.00 seconds: Person is walking.
+At 44.00 seconds: Car entered the scene.
+At 44.00 seconds: Person is walking.
+At 44.00 seconds: Unknown event.
+At 45.00 seconds: Person is walking.
+At 45.00 seconds: Car entered the scene.
+At 45.00 seconds: Unknown event.
+At 45.00 seconds: Unknown event.
+At 45.00 seconds: Car entered the scene.
+At 46.00 seconds: Person is walking.
+At 46.00 seconds: Unknown event.
+At 47.00 seconds: Person is walking.
+At 47.00 seconds: Unknown event.
+At 47.00 seconds: Person is walking.
+At 48.00 seconds: Person is walking.
+At 48.00 seconds: Person is walking.
+At 48.00 seconds: Person is walking.
+At 48.00 seconds: Car entered the scene.
+At 48.00 seconds: Car entered the scene.
+At 49.00 seconds: Person is walking.
+At 49.00 seconds: Person is walking.
+At 49.00 seconds: Person is walking.
+At 5.00 seconds: Person is walking.
+At 5.00 seconds: Car entered the scene.
+At 5.00 seconds: Person is walking.
+At 50.00 seconds: Person is walking.
+At 50.00 seconds: Car entered the scene.
+At 51.00 seconds: Person is walking.
+At 51.00 seconds: Car entered the scene.
+At 51.00 seconds: Unknown event.
+At 51.00 seconds: Person is walking.
+At 52.00 seconds: Unknown event.
+At 52.00 seconds: Person is walking.
+At 52.00 seconds: Person is walking.
+At 52.00 seconds: Unknown event.
+At 52.00 seconds: Person is walking.
+At 53.00 seconds: Person is walking.
+At 53.00 seconds: Person is walking.
+At 54.00 seconds: Person is walking.
+At 54.00 seconds: Person is walking.
+At 55.00 seconds: Person is walking.
+At 55.00 seconds: Person is walking.
+At 55.00 seconds: Person is walking.
+At 56.00 seconds: Person is walking.
+At 56.00 seconds: Person is walking.
+At 56.00 seconds: Car entered the scene.
+At 56.00 seconds: Person is walking.
+At 56.00 seconds: Person is walking.
+At 56.00 seconds: Car entered the scene.
+At 57.00 seconds: Person is walking.
+At 57.00 seconds: Person is walking.
+At 57.00 seconds: Person is walking.
+At 58.00 seconds: Person is walking.
+At 58.00 seconds: Person is walking.
+At 58.00 seconds: Person is walking.
+At 58.00 seconds: Car entered the scene.
+At 58.00 seconds: Unknown event.
+At 58.00 seconds: Unknown event.
+At 59.00 seconds: Person is walking.
+At 59.00 seconds: Person is walking.
+At 59.00 seconds: Unknown event.
+At 59.00 seconds: Car entered the scene.
+At 6.00 seconds: Person is walking.
+At 6.00 seconds: Car entered the scene.
+At 6.00 seconds: Car entered the scene.
+At 6.00 seconds: Unknown event.
+At 60.00 seconds: Person is walking.
+At 60.00 seconds: Unknown event.
+At 60.00 seconds: Person is walking.
+At 60.00 seconds: Car entered the scene.
+At 60.00 seconds: Car entered the scene.
+At 60.00 seconds: Person is walking.
+At 61.00 seconds: Person is walking.
+At 61.00 seconds: Unknown event.
+At 61.00 seconds: Car entered the scene.
+At 61.00 seconds: Person is walking.
+At 61.00 seconds: Unknown event.
+At 61.00 seconds: Person is walking.
+At 62.00 seconds: Person is walking.
+At 62.00 seconds: Person is walking.
+At 62.00 seconds: Car entered the scene.
+At 62.00 seconds: Unknown event.
+At 63.00 seconds: Person is walking.
+At 63.00 seconds: Unknown event.
+At 63.00 seconds: Person is walking.
+At 63.00 seconds: Person is walking.
+At 63.00 seconds: Car entered the scene.
+At 64.00 seconds: Person is walking.
+At 64.00 seconds: Person is walking.
+At 65.00 seconds: Person is walking.
+At 65.00 seconds: Unknown event.
+At 65.00 seconds: Unknown event.
+At 65.00 seconds: Person is walking.
+At 66.00 seconds: Person is walking.
+At 66.00 seconds: Person is walking.
+At 66.00 seconds: Car entered the scene.
+At 67.00 seconds: Person is walking.
+At 67.00 seconds: Unknown event.
+At 67.00 seconds: Person is walking.
+At 67.00 seconds: Unknown event.
+At 67.00 seconds: Car entered the scene.
+At 67.00 seconds: Person is walking.
+At 67.00 seconds: Car entered the scene.
+At 67.00 seconds: Unknown event.
+At 68.00 seconds: Person is walking.
+At 68.00 seconds: Unknown event.
+At 68.00 seconds: Person is walking.
+At 69.00 seconds: Person is walking.
+At 69.00 seconds: Unknown event.
+At 69.00 seconds: Person is walking.
+At 69.00 seconds: Person is walking.
+At 69.00 seconds: Unknown event.
+At 69.00 seconds: Person is walking.
+At 7.00 seconds: Person is walking.
+At 7.00 seconds: Unknown event.
+At 7.00 seconds: Unknown event.
+At 7.00 seconds: Person is walking.
+At 70.00 seconds: Person is walking.
+At 70.00 seconds: Unknown event.
+At 70.00 seconds: Person is walking.
+At 70.00 seconds: Person is walking.
+At 71.00 seconds: Person is walking.
+At 71.00 seconds: Person is walking.
+At 71.00 seconds: Person is walking.
+At 72.00 seconds: Person is walking.
+At 72.00 seconds: Car entered the scene.
+At 73.00 seconds: Person is walking.
+At 73.00 seconds: Car entered the scene.
+At 74.00 seconds: Person is walking.
+At 74.00 seconds: Car entered the scene.
+At 74.00 seconds: Car entered the scene.
+At 75.00 seconds: Person is walking.
+At 75.00 seconds: Person is walking.
+At 75.00 seconds: Car entered the scene.
+At 75.00 seconds: Car entered the scene.
+At 75.00 seconds: Person is walking.
+At 76.00 seconds: Person is walking.
+At 76.00 seconds: Person is walking.
+At 76.00 seconds: Car entered the scene.
+At 77.00 seconds: Person is walking.
+At 77.00 seconds: Person is walking.
+At 77.00 seconds: Car entered the scene.
+At 78.00 seconds: Person is walking.
+At 78.00 seconds: Person is walking.
+At 8.00 seconds: Person is walking.
+At 8.00 seconds: Car entered the scene.
+At 9.00 seconds: Person is walking.
+At 9.00 seconds: Car entered the scene.
+At 1.00 seconds: Person is walking.
+At 1.00 seconds: Person is walking.
+At 1.00 seconds: Person is walking.
+At 10.00 seconds: Person is walking.
+At 10.00 seconds: Car entered the scene.
+At 11.00 seconds: Person is walking.
+At 11.00 seconds: Unknown event.
+At 11.00 seconds: Car entered the scene.
+At 12.00 seconds: Person is walking.
+At 13.00 seconds: Person is walking.
+At 13.00 seconds: Person is walking.
+At 13.00 seconds: Unknown event.
+At 13.00 seconds: Person is walking.
+At 13.00 seconds: Car entered the scene.
+At 14.00 seconds: Person is walking.
+At 14.00 seconds: Person is walking.
+At 14.00 seconds: Person is walking.
+At 14.00 seconds: Unknown event.
+At 14.00 seconds: Unknown event.
+At 15.00 seconds: Person is walking.
+At 15.00 seconds: Person is walking.
+At 15.00 seconds: Person is walking.
+At 16.00 seconds: Person is walking.
+At 16.00 seconds: Person is walking.
+At 16.00 seconds: Person is walking.
+At 17.00 seconds: Person is walking.
+At 17.00 seconds: Person is walking.
+At 17.00 seconds: Unknown event.
+At 17.00 seconds: Unknown event.
+At 17.00 seconds: Unknown event.
+At 17.00 seconds: Car entered the scene.
+At 18.00 seconds: Person is walking.
+At 18.00 seconds: Unknown event.
+At 18.00 seconds: Person is walking.
+At 18.00 seconds: Person is walking.
+At 18.00 seconds: Person is walking.
+At 19.00 seconds: Person is walking.
+At 19.00 seconds: Person is walking.
+At 19.00 seconds: Person is walking.
+At 19.00 seconds: Unknown event.
+At 19.00 seconds: Person is walking.
+At 19.00 seconds: Car entered the scene.
+At 19.00 seconds: Unknown event.
+At 19.00 seconds: Unknown event.
+At 19.00 seconds: Person is walking.
+At 2.00 seconds: Person is walking.
+At 2.00 seconds: Person is walking.
+At 20.00 seconds: Person is walking.
+At 20.00 seconds: Person is walking.
+At 20.00 seconds: Unknown event.
+At 21.00 seconds: Person is walking.
+At 21.00 seconds: Person is walking.
+At 21.00 seconds: Person is walking.
+At 22.00 seconds: Person is walking.
+At 22.00 seconds: Unknown event.
+At 22.00 seconds: Person is walking.
+At 22.00 seconds: Person is walking.
+At 22.00 seconds: Car entered the scene.
+At 22.00 seconds: Unknown event.
+At 23.00 seconds: Person is walking.
+At 23.00 seconds: Dog is moving.
+At 23.00 seconds: Unknown event.
+At 23.00 seconds: Person is walking.
+At 24.00 seconds: Person is walking.
+At 24.00 seconds: Person is walking.
+At 25.00 seconds: Person is walking.
+At 25.00 seconds: Person is walking.
+At 25.00 seconds: Unknown event.
+At 26.00 seconds: Person is walking.
+At 26.00 seconds: Person is walking.
+At 26.00 seconds: Unknown event.
+At 26.00 seconds: Person is walking.
+At 26.00 seconds: Unknown event.
+At 27.00 seconds: Person is walking.
+At 27.00 seconds: Person is walking.
+At 27.00 seconds: Person is walking.
+At 28.00 seconds: Person is walking.
+At 28.00 seconds: Person is walking.
+At 28.00 seconds: Person is walking.
+At 28.00 seconds: Person is walking.
+At 29.00 seconds: Person is walking.
+At 29.00 seconds: Person is walking.
+At 29.00 seconds: Person is walking.
+At 29.00 seconds: Unknown event.
+At 29.00 seconds: Person is walking.
+At 29.00 seconds: Unknown event.
+At 29.00 seconds: Unknown event.
+At 3.00 seconds: Person is walking.
+At 30.00 seconds: Person is walking.
+At 30.00 seconds: Person is walking.
+At 30.00 seconds: Unknown event.
+At 31.00 seconds: Person is walking.
+At 31.00 seconds: Person is walking.
+At 31.00 seconds: Unknown event.
+At 31.00 seconds: Person is walking.
+At 32.00 seconds: Person is walking.
+At 32.00 seconds: Person is walking.
+At 32.00 seconds: Dog is moving.
+At 32.00 seconds: Unknown event.
+At 32.00 seconds: Dog is moving.
+At 33.00 seconds: Person is walking.
+At 33.00 seconds: Person is walking.
+At 33.00 seconds: Person is walking.
+At 33.00 seconds: Unknown event.
+At 33.00 seconds: Unknown event.
+At 33.00 seconds: Unknown event.
+At 33.00 seconds: Unknown event.

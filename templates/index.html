@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Video</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000; /* Black background */
+            color: #fff; /* White text */
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            margin-bottom: 20px;
+            font-size: 2em;
+        }
+        .upload-area {
+            border: 2px dashed #fff; /* White dashed border */
+            padding: 50px;
+            border-radius: 10px;
+            margin: 20px auto;
+            width: 80%;
+            max-width: 600px;
+            position: relative;
+        }
+        .upload-area:hover {
+            background-color: rgba(255, 255, 255, 0.1); /* Slight background change on hover */
+        }
+        input[type="file"] {
+            display: none; /* Hide the default file input */
+        }
+        label {
+            display: inline-block;
+            padding: 15px 30px;
+            background-color: #fff; /* White background for the button */
+            color: #000; /* Black text */
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        label:hover {
+            background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent on hover */
+            color: #000; /* Black text on hover */
+        }
+        button {
+            margin-top: 20px;
+            padding: 15px 30px;
+            background-color: #fff; /* White background for summarizer button */
+            color: #000; /* Black text */
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        button:hover {
+            background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent on hover */
+            color: #000; /* Black text on hover */
+        }
+        .message {
+            margin-top: 20px;
+            color: #00ff00; /* Green text for confirmation */
+        }
+    </style>
+</head>
+<body>
+    <h1>Upload Video for Event Summarization</h1>
+    <div class="upload-area">
+        <form action="/" method="post" enctype="multipart/form-data">
+            <label for="video">Drag and drop a video file here or click to select</label>
+            <input type="file" id="video" name="video" accept="video/*" required>
+            <br>
+            <button type="submit">Summarize Video</button>
+        </form>
+    </div>
+    {% if upload_message %}
+        <div class="message">{{ upload_message }}</div> <!-- Display upload message -->
+    {% endif %}
+</body>
+</html>
